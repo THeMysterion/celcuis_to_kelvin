@@ -12,7 +12,7 @@ def c_to_k(temp):
 		raise TooColdException("Temp is -0")
 	return temp + 273.15
 		
-print(c_to_k(-300))
+print(c_to_k(#))
 	
 
 	
